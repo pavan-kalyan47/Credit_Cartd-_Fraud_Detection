@@ -15,7 +15,7 @@
 #### Scalable Solution: Designed to handle large volumes of transactional data efficiently.
 
 # Dataset
-#### The dataset was sourced from Kaggle: Credit Card Fraud Transaction Data. It includes features such as transaction amount, merchant category, type of card, and more.
+#### The dataset was sourced from Kaggle: [Credit Card Fraud Transaction Data]. It includes features such as transaction amount, merchant category, type of card, and more.
 
 # Preprocessing Steps
 #### Data Cleaning: Removed unnecessary columns and handled null values.
