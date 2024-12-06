@@ -1,11 +1,11 @@
 # Credit_Cartd-_Fraud_Detection
 # Overview
-## This project focuses on detecting fraudulent credit card transactions using machine learning. The initiative addresses the challenges of digital fraud in the era of online transactions, aiming to mitigate financial losses and enhance trust in financial systems.
+#### This project focuses on detecting fraudulent credit card transactions using machine learning. The initiative addresses the challenges of digital fraud in the era of online transactions, aiming to mitigate financial losses and enhance trust in financial systems.
 
 # Objectives
-## Develop robust and accurate predictive models for real-time fraud detection.
-## Employ advanced machine learning techniques to identify patterns indicative of fraudulent behavior.
-## Provide actionable insights through a user-friendly web application for financial institutions and merchants.
+#### Develop robust and accurate predictive models for real-time fraud detection.
+#### Employ advanced machine learning techniques to identify patterns indicative of fraudulent behavior.
+#### Provide actionable insights through a user-friendly web application for financial institutions and merchants.
 
 # Key Features
 Machine Learning Models: Utilized Gradient Boosting Machine (GBM), Logistic Regression, Naive Bayes, SVM, Random Forest, and others.
